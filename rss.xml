@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Valhalla Forest]]></title>
         <description><![CDATA[Valhalla Forest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://valhallaforest.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 18:24:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 18:28:11 GMT</lastBuildDate>
+        <atom:link href="http://valhallaforest.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Valhalla Forest raises heritage breed chickens, turkeys, guineas, and goats on open pasture. A lot of our chickens just reached laying age, so we have lots eggs available! </p>]]></description>
-            <link>undefinedvalhalla-forest-raises-heritage-breed-chickens-turkeys-gui/index.html</link>
+            <description><![CDATA[<p>Valhalla Forest raises heritage breed chickens, turkeys, guineas, and goats on open pasture. A lot of our chickens just reached laying age, so we have lots eggs available!</p>]]></description>
+            <link>http://valhallaforest.com/valhalla-forest-raises-heritage-breed-chickens-turkeys-gui/index.html</link>
             <guid isPermaLink="false">c17669aa-6c68-4cda-9daa-c646ee71cc06</guid>
-            <pubDate>Sun, 24 Jul 2016 18:24:30 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2016 18:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
