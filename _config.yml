@@ -1,6 +1,6 @@
 name: Valhalla Forest
 favicon: null
-layout_spectrum: 0.32876131124794483
+layout_spectrum: 0
 typography_spectrum: 0.5701631538104266
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.07366012805141509
-  lightness: 0.14164197235368192
-  saturation: 0.6466709761880338
-  rhythmicContrast: 0.4536406819242984
+    - '#8e9373'
+    - '#3b722e'
+    - '#0b0c0e'
+    - '#e9eefd'
+    - '#aab0dc'
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
