@@ -7,19 +7,27 @@ keywords: []
 description: >-
   Valhalla Forest raises heritage breed chickens, turkeys, guineas, and goats on
   open pasture. A lot of our chickens just reached laying age, so we have lots
-  eggs available! 
-datePublished: '2016-07-24T18:24:30.497Z'
-dateModified: '2016-07-24T18:24:21.420Z'
+  eggs available!
+datePublished: '2016-07-24T18:28:10.789Z'
+dateModified: '2016-07-24T18:27:37.698Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-07-24-valhalla-forest-raises-heritage-breed-chickens-turkeys-gui.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-07-24-valhalla-forest-raises-heritage-breed-chickens-turkeys-gui.md
 url: valhalla-forest-raises-heritage-breed-chickens-turkeys-gui/index.html
 _type: Article
 
 ---
 Valhalla Forest raises heritage breed chickens, turkeys, guineas, and goats on open pasture. A lot of our chickens just reached laying age, so we have lots eggs available!
+
+We are located just outside Albany, Ohio. Please give us a call if you want to pick up some eggs. We can sometimes make arrangements to drop off eggs too---just ask! 
+
+Paul: (740) 274-0240  
+Michael: (330) 603-9018  
+Email: [info@valhallaforest.com][0]
+
+[0]: mailto:info@valhallaforest.com
